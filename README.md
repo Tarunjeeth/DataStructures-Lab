@@ -1,7 +1,7 @@
 # DataStructures-Lab
 Collection of DataStructures based Questions and Answers
 
-##Labs
+## Labs
 |  |
 | ------- |
 | [Lab 1](https://github.com/Tarunjeeth/DataStructures-Lab/tree/main/Lab1) |
